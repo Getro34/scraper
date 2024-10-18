@@ -20,11 +20,9 @@ Ce script Python parcourt une liste de sites web pour extraire les liens Faceboo
 1. Clonez ce dépôt :
 git clone https://github.com/Getro34/scraper.git cd scraper
 
-Copy
 2. Installez les dépendances requises :
 pip install -r requirements.txt
 
-Copy
 ## Dépendances
 
 Ce projet utilise les bibliothèques Python suivantes :
@@ -42,7 +40,6 @@ Ces dépendances sont listées dans le fichier `requirements.txt`.
 2. Exécutez le script :
 python scraper.py
 
-Copy
 3. Les résultats seront sauvegardés dans deux fichiers :
 - `facebook_links_output.txt` : liens Facebook trouvés
 - `emails_output.txt` : adresses email découvertes
